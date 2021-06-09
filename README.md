@@ -2,12 +2,12 @@
 These are a set of small scripts to clump feature extraction which are used in the reasearch manuscript titlted "Machine learning approach for discrimination of genotypes based on bright-field cellular images."
 
 ## Requirements
-These scripts are run on Windows 10 but I believe that making them run on other OS is an easy task.
-Python version 3.8.8 is used to execute the scripts but they do not use any version specific features inside.
-Java (JRE) version 1.8.0_291 is used. Please make your PATH environmental variable contain java command path.
-ImageJ version 1.53h is used.
-[LPIXEL plug-in](https://lpixel.net/products/lpixel-imagej-plugins/) particularly LPX Feature Lpx296 is used.
-Nuclear cropped bright-field images which are available as supplimental files.
+- These scripts are run on Windows 10 but I believe that making them run on other OS is an easy task.
+- Python version 3.8.8 is used to execute the scripts but they do not use any version specific features inside.
+- Java (JRE) version 1.8.0_291 is used. Please make your PATH environmental variable contain java command path.
+- ImageJ version 1.53h is used.
+- [LPIXEL plug-in](https://lpixel.net/products/lpixel-imagej-plugins/) particularly LPX Feature Lpx296 is used.
+- Nuclear cropped bright-field images which are available as supplimental files.
 
 ## How to run
 - Make a directory as a place to store and run the scripts. Let us represent it `$WORK'.
