@@ -14,7 +14,7 @@ These are a set of small scripts to clump feature extraction which are used in t
 - Let your working directory $WORK.
 - Copy the scripts to $WORK.
 - Copy the nuclear images under $WORK and extract them.
-- They should be stored $WORK/D2_Additional_file_3_SupDataS1/nuclear-*/*.tif
+- They should be stored $WORK/D2_Additional_file_3_SupDataS1/nuclear-\*/\*.tif
 - Run run.BAT
 - You will find D2_Additional_file_5_SupDataS3.txt under $WORK.
 
